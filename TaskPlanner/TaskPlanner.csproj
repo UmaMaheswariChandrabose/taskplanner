@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <UserSecretsId>aspnet-TaskPlanner-A9BB3A81-1AE9-4866-94FE-939BB5DCCB00</UserSecretsId>
   </PropertyGroup>
 
 
